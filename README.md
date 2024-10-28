@@ -14,7 +14,7 @@ sudo git clone https://github.com/daniel0130/daniel-portfolio.git
 Windows:
 
 ```bash
-git clone https://github.com/daniel0130/portfolio.git
+git clone https://github.com/daniel0130/daniel-portfolio.git
 ```
 
 ## Demo
