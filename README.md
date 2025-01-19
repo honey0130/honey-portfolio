@@ -25,7 +25,6 @@ git clone https://github.com/daniel0130/daniel-portfolio.git
   <a href="https://daniel0130.com"><strong>➥ Live Demo</strong></a>
 </p>
 
-
 ## License
 
 MIT
